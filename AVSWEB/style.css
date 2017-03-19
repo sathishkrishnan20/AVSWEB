@@ -5777,11 +5777,13 @@ height:50px;
 margin:0;
 display:none;
 }
- header#ttr_header 
+ 
+header#ttr_header 
 {
 background-color:#037FBB;
 background:rgba(3,127,187,1);
-background-clip:padding-box;border-radius:0px 0px 0px 0px;
+background-clip:padding-box;
+border-radius:0px 0px 0px 0px;
 border:solid #E7E7E7;
 border:solid rgba(231,231,231,1);
 border-width:0px 0px 0px 0px;
@@ -5790,14 +5792,16 @@ margin-top:0px;
 margin-left:0px;
 margin-right:0px;
 margin-bottom:0px;
-height:60px;
+height:160px;
 width: auto;
 box-sizing:content-box;
 
 }
  header#ttr_header 
 {
-display:block;}
+display:block;
+
+}
  nav#ttr_menu 
 {
 width:auto;
@@ -5824,6 +5828,24 @@ background-clip:padding-box;
  #Slide2
 {
 background:url(images/HomeDesktopSlide2.jpg);
+background-color:#FFFFFF;
+background-repeat:no-repeat;
+background-size:cover;
+background-position:Center Center;
+background-clip:padding-box;
+}
+ #Slide3
+{
+background:url(images/HomeDesktopSlide3.jpg);
+background-color:#FFFFFF;
+background-repeat:no-repeat;
+background-size:cover;
+background-position:Center Center;
+background-clip:padding-box;
+}
+ #Slide4
+{
+background:url(images/HomeDesktopSlide4.jpg);
 background-color:#FFFFFF;
 background-repeat:no-repeat;
 background-size:cover;
@@ -10393,7 +10415,7 @@ left:21%;
 right:auto;
 top:32px;
 width:174px;
-min-height:36px;
+min-height:346px;
 position:absolute;
 transform:rotate(0deg);
 -moz-transform:rotate(0deg);

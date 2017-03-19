@@ -1,0 +1,61 @@
+<html>
+<body>
+
+
+<form id="ContactForm0" class="form-horizontal" role="form" method="post" action="contactform.js" style="padding:0px 0px 0px 0px;margin: 0 auto;">
+
+<div class="form-group"><label class="col-sm-4 control-label">Name</label><div class="col-sm-8"><input type="text" class="form-control" data-vali="novalidation" /></div></div><div class="form-group"><label class="col-sm-4 control-label required">Email</label><div class="col-sm-8"><input type="text" class="form-control required" data-vali="email" /></div></div><div class="form-group"><label class="col-sm-4 control-label">Subject</label><div class="col-sm-8"><input type="text" class="form-control" data-vali="novalidation" /></div></div><div class="form-group"><label class="col-sm-4 control-label">Message</label><div class="col-sm-8"><textarea class="form-control comment" name="message" rows="4"></textarea></div></div><div class="form-group"><div class="col-sm-4 col-sm-offset-8"><input type="submit" class="pull-right btn btn-md btn-default" rows="4" id="submit" name="submit" value="Send Message" /></div></div><div class="clearfix"></div><div class="success"></div><div class="req_field"></div><div class="clearfix"></div></form>
+
+
+
+<form name="contactform" method="post" action="send_form_email.php">
+<table width="450px">
+<tr>
+ <td valign="top">
+  <label for="first_name">First Name *</label>
+ </td>
+ <td valign="top">
+  <input  type="text" name="first_name" maxlength="50" size="30">
+ </td>
+</tr>
+<tr>
+ <td valign="top"">
+  <label for="last_name">Last Name *</label>
+ </td>
+ <td valign="top">
+  <input  type="text" name="last_name" maxlength="50" size="30">
+ </td>
+</tr>
+<tr>
+ <td valign="top">
+  <label for="email">Email Address *</label>
+ </td>
+ <td valign="top">
+  <input  type="text" name="email" maxlength="80" size="30">
+ </td>
+</tr>
+<tr>
+ <td valign="top">
+  <label for="telephone">Telephone Number</label>
+ </td>
+ <td valign="top">
+  <input  type="text" name="telephone" maxlength="30" size="30">
+ </td>
+</tr>
+<tr>
+ <td valign="top">
+  <label for="comments">Comments *</label>
+ </td>
+ <td valign="top">
+  <textarea  name="comments" maxlength="1000" cols="25" rows="6"></textarea>
+ </td>
+</tr>
+<tr>
+ <td colspan="2" style="text-align:center">
+  <input type="submit" value="Submit">
+ </td>
+</tr>
+</table>
+</form>
+</body>
+<html>

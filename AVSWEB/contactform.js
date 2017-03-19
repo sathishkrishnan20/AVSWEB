@@ -1,4 +1,4 @@
-var msg_to_sent = "";
+var msg_to_sent = "sathishkrish20@gmail.com";
 
 function emailValidation(form_id, email) {
     jQuery(form_id + ' .has-error').hide();
