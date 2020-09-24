@@ -1,0 +1,59 @@
+[21-Dec-2016 06:06:50 America/Denver] PHP Parse error:  syntax error, unexpected 'asd' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/doubts.php on line 17
+[21-Dec-2016 06:06:55 America/Denver] PHP Parse error:  syntax error, unexpected 'asd' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/doubts.php on line 17
+[21-Dec-2016 06:07:24 America/Denver] PHP Parse error:  syntax error, unexpected 'asd' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/doubts.php on line 17
+[21-Dec-2016 06:07:37 America/Denver] PHP Parse error:  syntax error, unexpected 'asd' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/doubts.php on line 17
+[21-Dec-2016 06:07:48 America/Denver] PHP Parse error:  syntax error, unexpected 'asd' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/doubts.php on line 17
+[21-Dec-2016 06:08:42 America/Denver] PHP Parse error:  syntax error, unexpected 'asd' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/doubts.php on line 17
+[21-Dec-2016 06:08:44 America/Denver] PHP Parse error:  syntax error, unexpected 'asd' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/doubts.php on line 17
+[22-Dec-2016 12:12:45 America/Denver] PHP Warning:  file_get_contents(http://admanager.nethosting.com/getads/vairaisathish.5gbfree.com/Meyyunarvom/signin.php): failed to open stream: Connection timed out in /usr/share/php/footer.php on line 11
+[22-Dec-2016 12:12:51 America/Denver] PHP Warning:  file_get_contents(http://admanager.nethosting.com/getads/vairaisathish.5gbfree.com/Meyyunarvom/signin.php): failed to open stream: Connection timed out in /usr/share/php/footer.php on line 11
+[22-Dec-2016 12:13:01 America/Denver] PHP Warning:  file_get_contents(http://admanager.nethosting.com/getads/vairaisathish.5gbfree.com/Meyyunarvom/signin.php): failed to open stream: Connection timed out in /usr/share/php/footer.php on line 11
+[22-Dec-2016 12:13:21 America/Denver] PHP Warning:  file_get_contents(http://admanager.nethosting.com/getads/vairaisathish.5gbfree.com/Meyyunarvom/signin.php): failed to open stream: Connection timed out in /usr/share/php/footer.php on line 11
+[22-Dec-2016 12:13:33 America/Denver] PHP Warning:  file_get_contents(http://admanager.nethosting.com/getads/vairaisathish.5gbfree.com/Meyyunarvom/signin.php): failed to open stream: Connection timed out in /usr/share/php/footer.php on line 11
+[22-Dec-2016 12:16:22 America/Denver] PHP Warning:  file_get_contents(http://admanager.nethosting.com/getads/vairaisathish.5gbfree.com/Meyyunarvom/signin.php): failed to open stream: Connection timed out in /usr/share/php/footer.php on line 11
+[22-Dec-2016 12:16:31 America/Denver] PHP Warning:  file_get_contents(http://admanager.nethosting.com/getads/vairaisathish.5gbfree.com/Meyyunarvom/getTemple.php): failed to open stream: Connection timed out in /usr/share/php/footer.php on line 11
+[22-Dec-2016 12:18:25 America/Denver] PHP Warning:  file_get_contents(http://admanager.nethosting.com/getads/vairaisathish.5gbfree.com/Meyyunarvom/signin.php): failed to open stream: Connection timed out in /usr/share/php/footer.php on line 11
+[22-Dec-2016 12:18:31 America/Denver] PHP Warning:  file_get_contents(http://admanager.nethosting.com/getads/vairaisathish.5gbfree.com/Meyyunarvom/getTemple.php): failed to open stream: Connection timed out in /usr/share/php/footer.php on line 11
+[22-Dec-2016 12:19:44 America/Denver] PHP Warning:  file_get_contents(http://admanager.nethosting.com/getads/vairaisathish.5gbfree.com/Meyyunarvom/getTemple.php): failed to open stream: Connection timed out in /usr/share/php/footer.php on line 11
+[03-Jan-2017 06:37:38 America/Denver] PHP Warning:  mysqli_query(): Empty query in /home/vairaisathish/public_html/Meyyunarvom/doubts.php on line 29
+[15-Jan-2017 00:55:31 America/Denver] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE), expecting ',' or ';' in /home/vairaisathish/public_html/Meyyunarvom/doubts.php on line 23
+[15-Jan-2017 00:55:37 America/Denver] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE), expecting ',' or ';' in /home/vairaisathish/public_html/Meyyunarvom/doubts.php on line 23
+[15-Jan-2017 00:55:50 America/Denver] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE), expecting ',' or ';' in /home/vairaisathish/public_html/Meyyunarvom/doubts.php on line 23
+[16-Jan-2017 12:18:22 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:18:27 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:18:37 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:18:43 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/deletePoemByAdmin.php on line 7
+[16-Jan-2017 12:20:08 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:20:59 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:21:49 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:22:00 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/deletePoemByAdmin.php on line 7
+[16-Jan-2017 12:28:12 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:28:24 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:28:30 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/deletePoemFromAdminPage.php on line 7
+[16-Jan-2017 12:28:43 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:31:58 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:32:05 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:33:09 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:33:14 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/deletePoemByAdmin.php on line 7
+[16-Jan-2017 12:33:19 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/deletePoemFromAdminPage.php on line 7
+[16-Jan-2017 12:33:53 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:35:06 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:39:14 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:39:25 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:49:20 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:49:27 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/deletePoemByAdmin.php on line 7
+[16-Jan-2017 12:49:33 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/deletePoemFromAdminPage.php on line 7
+[16-Jan-2017 12:52:31 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/setPoemByAdmin.php on line 7
+[16-Jan-2017 12:54:19 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/vairaisathish/public_html/Meyyunarvom/deletePoemByAdmin.php on line 7
+[20-Jan-2017 09:40:14 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/vairaisathish/public_html/Meyyunarvom/getPoemByUser.php on line 18
+[20-Jan-2017 09:52:05 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/vairaisathish/public_html/Meyyunarvom/getPoemByUser.php on line 18
+[20-Jan-2017 09:53:19 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/vairaisathish/public_html/Meyyunarvom/getPoemByUser.php on line 18
+[20-Jan-2017 09:54:57 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/vairaisathish/public_html/Meyyunarvom/getPoemByUser.php on line 19
+[29-Jan-2017 22:57:41 America/Denver] PHP Parse error:  syntax error, unexpected 'admin' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/adminLoginAuth.php on line 15
+[30-Jan-2017 03:55:35 America/Denver] PHP Parse error:  syntax error, unexpected 'userUpdate' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/testString.php on line 7
+[30-Jan-2017 03:55:54 America/Denver] PHP Parse error:  syntax error, unexpected 'userUpdate' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/testString.php on line 7
+[30-Jan-2017 03:56:50 America/Denver] PHP Parse error:  syntax error, unexpected 'userUpdate' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/testString.php on line 7
+[30-Jan-2017 03:57:25 America/Denver] PHP Parse error:  syntax error, unexpected 'userUpdate' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/testString.php on line 7
+[30-Jan-2017 03:57:35 America/Denver] PHP Parse error:  syntax error, unexpected 'userUpdate' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/testString.php on line 7
+[30-Jan-2017 03:58:10 America/Denver] PHP Parse error:  syntax error, unexpected 'userUpdate' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/testString.php on line 7
+[30-Jan-2017 03:58:39 America/Denver] PHP Parse error:  syntax error, unexpected 'userUpdate' (T_STRING) in /home/vairaisathish/public_html/Meyyunarvom/testString.php on line 7
